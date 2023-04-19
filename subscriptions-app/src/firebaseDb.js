@@ -2,12 +2,12 @@ import firebase from 'firebase/app'
 import 'firebase/firestore'
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBLT93o0zIZN1BpH3l_UOpVN-C2ctocY5s',
-  authDomain: 'my-subscriptions-ca838.firebaseapp.com',
-  projectId: 'my-subscriptions-ca838',
-  storageBucket: 'my-subscriptions-ca838.appspot.com',
-  messagingSenderId: '784865063533',
-  appId: '1:784865063533:web:5ecef64666552df03e8564'
+  apiKey: 'AIzaSyBlw4focFBqoBDZUTXCD3RYG3ZQV8R9CLM',
+  authDomain: 'my-subscriptions-27991.firebaseapp.com',
+  projectId: 'my-subscriptions-27991',
+  storageBucket: 'my-subscriptions-27991.appspot.com',
+  messagingSenderId: '859264056220',
+  appId: '1:859264056220:web:e2bc7cbad8abb46650a659'
 }
 
 const db = firebase.initializeApp(firebaseConfig)

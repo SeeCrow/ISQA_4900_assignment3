@@ -12,7 +12,7 @@ const routes = [
     component: () => import('../components/Create')
   },
   {
-    path: '/edit/:id',
+    path: '/edit/id',
     name: 'edit',
     component: () => import('../components/Edit')
   }
